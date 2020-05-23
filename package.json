@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Boginskii/Tasks/issues"
   },
-  "homepage": "https://github.com/Boginskii/Tasks#readme"
+  "homepage": "https://github.com/Boginskii/Tasks#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
